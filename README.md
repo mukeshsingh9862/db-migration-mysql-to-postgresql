@@ -12,8 +12,6 @@ A robust Node.js application designed for efficient migration of large tables fr
 - ✅ **Error Handling**: Retry mechanisms and checkpoint recovery
 - ✅ **Data Verification**: Automatic row count verification
 - ✅ **Performance Analytics**: Detailed timing and speed metrics
-- ✅ **Health Check API**: Database connection status monitoring
-- ✅ **Graceful Shutdown**: Proper resource cleanup
 
 ## 📋 Prerequisites
 
